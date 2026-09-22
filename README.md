@@ -16,7 +16,7 @@ Proyecto desarrollado con fines educativos basándome en los cursos de **S4vitar
 
 Para ejecutar este script necesitas un entorno compatible con Bash (Linux / Unix / macOS o subsistemas como WSL en Windows).
 
-1. Clonar el repositorio Bash git clone https://github.com/Antonio250705/simulador-ruleta-bash.git cd simulador-ruleta-bash
+1. Clonar el repositorio Bash git clone https://github.com/Antonio250705/simulador-casino-bash.git cd simulador-ruleta-bash
 2. Dar permisos de ejecución Bash chmod +x ruleta.sh
 3. Ejecutar el simulador El script requiere dos parámetros obligatorios: el dinero inicial (-m) y la técnica a utilizar (-t).
 
